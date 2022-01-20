@@ -1,2 +1,2 @@
 # Container-overlays
-To show and implement different network configurations of containers
+Implementing different network configurations of containers
